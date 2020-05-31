@@ -1,5 +1,7 @@
 class Student < User
 
-  KNOWLEDGE = []
+  @knowledge = []
+
+
 
 end
